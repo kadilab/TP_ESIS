@@ -11,11 +11,11 @@ if (isset($_POST['nom']) && $_POST['postnom'] && $_POST['matricule'] && $_POST['
     $promotion = $_POST['promotion'];
     $email = $_POST['email'];
     // Affichqge des données envoyées sur une autre page
-    echo 'Nom ' . $name . ' ' . $postnom . ' ' . $prenom . '<br>';
-    echo 'Promotion ' . $promotion . '<br>';
-    echo 'Genre ' . $genre . '<br>';
-    echo 'Email ' . $email . '<br>';
-    echo 'Matricule ' . $matricule . '<br>';
+    echo 'Nom : ' . $name . ' ' . $postnom . ' ' . $prenom . '<br>';
+    echo 'Promotion : ' . $promotion . '<br>';
+    echo 'Genre : ' . $genre . '<br>';
+    echo 'Email : ' . $email . '<br>';
+    echo 'Matricule : ' . $matricule . '<br>';
 } else {
     echo "Formulaire invalide";
 }
