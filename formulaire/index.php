@@ -5,7 +5,7 @@
     <title>Formulaire</title>
 </head>
 <body>
-    <form action="controllers/formulaire.php" method="post">
+    <form action="action.php" method="post">
         Nom : <input type="text" name="nom"><br><br>
         Post-nom : <input type="text" name="postnom"><br><br>
         Prenom : <input type="text" name="prenom"><br><br>
