@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <head>
     <title>Publication des resultats</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <form action="action.php" method="get">
         Matricule : <br>
-        <input type="text" name="matricule"><br>
+        <input type="text" placeholder="19KN132" name="matricule"><br>
 
         Promotion: <br>
         <select name="promotion">

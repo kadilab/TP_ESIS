@@ -27,7 +27,7 @@ $cotes = array(
         "18KN001" => array(
             "nom" => "L'etudiant 4",
             "cotes" => [
-                "math" => 7,"algo" => 8,"irs" => 5,"physique" => 4
+                "math" => 7,"algo" => 6,"irs" => 5,"physique" => 6
             ]
         ),
 
@@ -41,7 +41,7 @@ $cotes = array(
         "18KN003" => array(
             "nom" => "L'etudiant 6",
             "cotes" => [
-                "math" => 7,"algo" => 8,"irs" => 5,"physique" => 4
+                "math" => 9,"algo" => 10,"irs" => 5,"physique" => 7
             ]
         ),
     ],
@@ -50,21 +50,21 @@ $cotes = array(
         "17KN001" => array(
             "nom" => "L'etudiant 7",
             "cotes" => [
-                "math" => 7,"algo" => 8,"irs" => 5,"physique" => 4
+                "math" => 2,"algo" => 3,"irs" => 5,"physique" => 4
             ]
         ),
 
         "17KN002" => array(
             "nom" => "L'etudiant 8",
             "cotes" => [
-                "math" => 7,"algo" => 8,"irs" => 5,"physique" => 4
+                "math" => 7,"algo" => 6,"irs" => 5,"physique" => 7
             ]
         ),
 
         "17KN003" => array(
             "nom" => "L'etudiant 9",
             "cotes" => [
-                "math" => 7,"algo" => 8,"irs" => 5,"physique" => 4
+                "math" => 5,"algo" => 6,"irs" => 6,"physique" => 3
             ]
         ),
     ],

@@ -1,0 +1,23 @@
+body {
+    height: 100vh;
+    display: flex;
+}
+
+select, input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+form, .content {
+    width: 20%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form {
+    align-self: center;
+    elevation: higher;
+}
