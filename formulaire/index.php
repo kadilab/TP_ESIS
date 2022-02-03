@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Formulaire</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <form action="action.php" method="post">
